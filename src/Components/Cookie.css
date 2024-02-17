@@ -1,0 +1,13 @@
+.cookie {
+  cursor: pointer;
+  width: 15%;
+  height: 15%;
+  overflow: hidden;
+  border: none;
+  background: none;
+}
+
+.cookie:hover {
+  filter: drop-shadow(0 0 25px rgba(255, 165, 0, 0.9));
+  transform: scale(1.02);
+}
